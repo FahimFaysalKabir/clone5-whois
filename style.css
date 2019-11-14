@@ -12,6 +12,7 @@
 .mid{
   width:75%;
   margin: auto;
+  max-width:1200px;
 }
 .left{
   width:20%;
